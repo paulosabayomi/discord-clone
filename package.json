@@ -210,9 +210,6 @@
       "repo": "electron-react-boilerplate"
     }
   },
-  "collective": {
-    "url": "https://opencollective.com/electron-react-boilerplate-594"
-  },
   "devEngines": {
     "node": ">=14.x",
     "npm": ">=7.x"
