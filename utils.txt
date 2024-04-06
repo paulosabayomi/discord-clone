@@ -1,0 +1,23 @@
+scrollbar customization
+::-webkit-scrollbar {
+  width: 10px; 
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+useful images
+https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcbLjcZKWWHRRpf5gdOSCI78jLz3gpNgL67AcTD3zFE-zU_GTG
+https://imageio.forbes.com/specials-images/imageserve/5f962df3991e5636a2f68758/0x0.jpg
+
+icons
+
+
+font and color declarations
